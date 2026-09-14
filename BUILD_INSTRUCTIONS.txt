@@ -1,0 +1,11 @@
+بازی امید - Android Native Kotlin
+
+برای ساخت آنلاین:
+1) کل پوشه OmidGame را ZIP کنید.
+2) در Android Build Studio فایل ZIP را آپلود کنید.
+3) Build APK را انتخاب کنید.
+
+Gradle 8.9 / Android Gradle Plugin 8.7.3 / Kotlin 2.0.21
+Java 17 target
+
+نکته: سرویس آنلاین باید بتواند Gradle dependencies را از اینترنت دریافت کند.
